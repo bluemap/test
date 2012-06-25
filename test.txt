@@ -5,8 +5,5 @@ new line3
 new line4
 local line1
 server line1
-<<<<<<< HEAD
 local line2
-=======
 server line2
->>>>>>> 2b5eb2f454ae3c5ec5a72562524b18803203abd3
