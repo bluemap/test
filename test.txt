@@ -3,7 +3,5 @@ new line
 new line2
 new line3
 new line4
-<<<<<<< HEAD
 local line1
-=======
 server line1
