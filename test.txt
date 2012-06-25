@@ -7,3 +7,5 @@ local line1
 server line1
 local line2
 server line2
+local line3
+server line3
