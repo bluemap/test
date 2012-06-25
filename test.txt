@@ -10,3 +10,4 @@ server line2
 local line3
 server line3
 server line4
+local line4
