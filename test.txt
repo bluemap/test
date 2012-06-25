@@ -5,3 +5,4 @@ new line3
 new line4
 local line1
 server line1
+server line2
